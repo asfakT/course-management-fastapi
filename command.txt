@@ -1,0 +1,7 @@
+cd "C:\Users\iamja\OneDrive\Desktop\Fast API Python"
+env\Scripts\activate
+uvicorn app.main:app --reload
+
+github: https://github.com/aiQuest-Intelligence/FastAPI-Tutorials/tree/main
+
+document: https://fastapi.tiangolo.com/
